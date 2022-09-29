@@ -195,6 +195,23 @@ section .mbr-background-video-preview {
 .copyright {
     padding-bottom:5px;
 }
+.cid-aBcKapgoUz{
+background-image: url("../../../assets/images/np_file_149657.jpeg");   
+}
+.cid-aBcKapgoUz::before{
+content:"";
+position:absolute;
+top:0;
+left:0px;
+width:100%;
+height:100%;
+background-color:rgba(0,0,0, .5)
+}
+.cid-aBcKapgoUz h3,.cid-aBcKapgoUz p{
+  color:#fff;  
+}
+
+
 /*new css end*/
 @media (min-width: 992px) {
   .media-container-row {
