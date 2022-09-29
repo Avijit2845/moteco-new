@@ -186,12 +186,10 @@ section .mbr-background-video-preview {
   width: 100%;
 }
 /*new css*/
-#menu2-q #navbarSupportedContent ul li a.nav-link{
+.menu2 #navbarSupportedContent ul li a.nav-link{
     margin:10px !important;
 }
-
-
-#menu2-q.cid-sAMSSZjmNH .navbar-buttons {
+.menu2.cid-sAMSSZjmNH .navbar-buttons {
   min-width: 120px;
 }
 /*new css end*/
