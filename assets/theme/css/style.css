@@ -189,7 +189,7 @@ section .mbr-background-video-preview {
 .menu2 #navbarSupportedContent ul li a.nav-link{
     margin:10px !important;
 }
-.menu2.cid-sAMSSZjmNH .navbar-buttons {
+.menu.menu2 .navbar-buttons {
   min-width: 120px;
 }
 .copyright {
