@@ -192,6 +192,9 @@ section .mbr-background-video-preview {
 .menu2.cid-sAMSSZjmNH .navbar-buttons {
   min-width: 120px;
 }
+.copyright {
+    padding-bottom:5px;
+}
 /*new css end*/
 @media (min-width: 992px) {
   .media-container-row {
